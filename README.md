@@ -1,4 +1,6 @@
 # Gaming_project
+This folder contains the source code and video of demonstration of the project
+
 
 ## Required python modules:
 
